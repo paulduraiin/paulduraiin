@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paulduraiin
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in everything AI
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on LLM finetuning & applications
